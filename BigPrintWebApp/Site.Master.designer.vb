@@ -14,6 +14,24 @@ Option Explicit On
 Partial Public Class SiteMaster
 
     '''<summary>
+    '''BasicASPXMenu control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents BasicASPXMenu As Global.System.Web.UI.WebControls.Menu
+
+    '''<summary>
+    '''SiteNav control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents SiteNav As Global.System.Web.UI.WebControls.SiteMapDataSource
+
+    '''<summary>
     '''MainContent control.
     '''</summary>
     '''<remarks>
